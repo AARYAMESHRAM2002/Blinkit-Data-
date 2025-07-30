@@ -9,7 +9,8 @@
 
 This Power BI project visualizes and analyzes the sales data of Blinkit, India’s last-minute delivery app. The dashboard provides key business insights across various dimensions such as outlet size, outlet location, item type, and fat content.
 
----
+![WhatsApp Image 2025-07-30 at 23 11 59_fe8ece72](https://github.com/user-attachments/assets/9bd798dd-b0f2-49aa-890f-475d83282c3d)
+
 
 ### 📈 Key Features
 
